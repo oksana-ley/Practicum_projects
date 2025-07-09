@@ -26,6 +26,6 @@
 ## Используемые технологии
 
 - Python
-  - Библиотеки: Pandas, Matplotlib, NumPy, Matplotlib, Seaborn
+  - Библиотеки: Pandas, Matplotlib, NumPy, Seaborn
 - Jupyter Notebook
 - Статистические методы
