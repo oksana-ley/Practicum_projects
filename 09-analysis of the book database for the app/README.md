@@ -11,6 +11,8 @@
 ## Используемые технологии
 
 - SQL (PostgreSQL)
+- Python
+  - Библиотеки: Pandas, Sqlalchemy
 - Jupyter Notebook
 - Основные техники:
 
