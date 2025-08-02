@@ -22,4 +22,5 @@
 - Python
   - Библиотеки: Pandas, Seaborn, NumPy, Datetime
 - Jupyter Notebook
+- Исследовательский анализ данных
 - Статистические методы — LTV, ROI, CAC, конверсия, удержание
