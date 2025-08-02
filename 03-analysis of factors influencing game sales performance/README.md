@@ -19,4 +19,5 @@
 - Python
   - Библиотеки: Pandas, Matplotlib, NumPy, Seaborn
 - Jupyter Notebook
+- Исследовательский анализ данных
 - Scipy.stats : проверка гипотез (t-тесты)
